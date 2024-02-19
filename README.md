@@ -6,7 +6,7 @@ I typically work with Node, Python, Go, and Rust.
 ### Repos
 
 - [notes](https://github.com/jly36963/notes)
-- [example-projects](https://github.com/jly36963/notes)
+- [example-projects](https://github.com/jly36963/example-projects)
 
 ### Interests
 
