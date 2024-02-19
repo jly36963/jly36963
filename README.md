@@ -11,4 +11,5 @@ I typically work with Node, Python, Go, and Rust.
 ### Interests
 
 ![Landon's interests (software)](./sunburst-interests-software.svg)
-![Landon's interests (hobbies)](./sunburst-interests-hobbies.svg)
+
+<!-- ![Landon's interests (hobbies)](./sunburst-interests-hobbies.svg) -->
