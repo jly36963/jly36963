@@ -1,0 +1,770 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="-500,-500,1000,1000"
+  width="1000"
+  height="1000"
+  style="max-width: 100%; height: auto; height: intrinsic"
+  font-family="sans-serif"
+  font-size="12"
+  text-anchor="middle"
+>
+  <a>
+    <path
+      d="M0,-123.75A123.75,123.75,0,1,1,0,123.75A123.75,123.75,0,1,1,0,-123.75Z"
+      fill="rgba(0, 0, 0, 0)"
+      fill-opacity="0.9"
+    ></path>
+    <text fill="white" dy="0.32em"></text>
+    <title></title>
+  </a>
+  <a>
+    <path
+      d="M0.5,-248.499A248.5,248.5,0,0,1,246.336,32.727L123.696,16.182A124.75,124.75,0,0,0,0.5,-124.749Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-41.15853658536586) translate(187.125,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      backend
+    </text>
+    <title>backend</title>
+  </a>
+  <a>
+    <path
+      d="M246.202,33.718A248.5,248.5,0,0,1,24.263,247.313L12.428,124.129A124.75,124.75,0,0,0,123.562,17.173Z"
+      fill="#443983"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(46.09756097560975) translate(187.125,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      database
+    </text>
+    <title>database</title>
+  </a>
+  <a>
+    <path
+      d="M23.267,247.408A248.5,248.5,0,0,1,-202.967,143.375L-101.748,72.179A124.75,124.75,0,0,0,11.433,124.225Z"
+      fill="#31688e"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(114.69512195121948) translate(187.125,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      frontend
+    </text>
+    <title>frontend</title>
+  </a>
+  <a>
+    <path
+      d="M-203.543,142.557A248.5,248.5,0,0,1,-237.069,-74.501L-119.086,-37.163A124.75,124.75,0,0,0,-102.324,71.361Z"
+      fill="#21918c"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(171.21951219512192) translate(187.125,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      OSS
+    </text>
+    <title>OSS</title>
+  </a>
+  <a>
+    <path
+      d="M-236.768,-75.454A248.5,248.5,0,0,1,-127.418,-213.347L-64.179,-106.975A124.75,124.75,0,0,0,-118.784,-38.116Z"
+      fill="#35b779"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(218.41463414634143) translate(187.125,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      data
+    </text>
+    <title>data</title>
+  </a>
+  <a>
+    <path
+      d="M-126.558,-213.858A248.5,248.5,0,0,1,-0.5,-248.499L-0.5,-124.749A124.75,124.75,0,0,0,-63.319,-107.486Z"
+      fill="#90d743"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(254.63414634146335) translate(187.125,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      cli
+    </text>
+    <title>cli</title>
+  </a>
+  <a>
+    <path
+      d="M0.5,-373.25A373.25,373.25,0,0,1,145.673,-343.65L97.223,-229.778A249.5,249.5,0,0,0,0.5,-249.499Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-78.47560975609755) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      go
+    </text>
+    <title>backend . go</title>
+  </a>
+  <a>
+    <path
+      d="M146.593,-343.258A373.25,373.25,0,0,1,263.574,-264.281L176.069,-176.776A249.5,249.5,0,0,0,98.143,-229.387Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-55.97560975609757) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      node
+    </text>
+    <title>backend . node</title>
+  </a>
+  <a>
+    <path
+      d="M264.281,-263.574A373.25,373.25,0,0,1,343.258,-146.593L229.387,-98.143A249.5,249.5,0,0,0,176.776,-176.069Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-34.02439024390245) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      rust
+    </text>
+    <title>backend . rust</title>
+  </a>
+  <a>
+    <path
+      d="M343.65,-145.673A373.25,373.25,0,0,1,372.605,-21.937L249.059,-14.83A249.5,249.5,0,0,0,229.778,-97.223Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-13.170731707317088) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      python
+    </text>
+    <title>backend . python</title>
+  </a>
+  <a>
+    <path
+      d="M372.662,-20.939A373.25,373.25,0,0,1,369.966,49.405L247.327,32.86A249.5,249.5,0,0,0,249.116,-13.831Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(2.1951219512195053) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      gleam
+    </text>
+    <title>backend . gleam</title>
+  </a>
+  <a>
+    <path
+      d="M369.832,50.396A373.25,373.25,0,0,1,232.31,292.143L155.418,195.181A249.5,249.5,0,0,0,247.193,33.851Z"
+      fill="#443983"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(29.634146341463406) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      postgres
+    </text>
+    <title>database . postgres</title>
+  </a>
+  <a>
+    <path
+      d="M231.526,292.765A373.25,373.25,0,0,1,172.439,331.029L115.414,221.201A249.5,249.5,0,0,0,154.634,195.802Z"
+      fill="#443983"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(57.07317073170731) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      redis
+    </text>
+    <title>database . redis</title>
+  </a>
+  <a>
+    <path
+      d="M171.551,331.49A373.25,373.25,0,0,1,119.887,353.472L80.295,236.226A249.5,249.5,0,0,0,114.527,221.662Z"
+      fill="#443983"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(66.95121951219514) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      mongo
+    </text>
+    <title>database . mongo</title>
+  </a>
+  <a>
+    <path
+      d="M118.939,353.792A373.25,373.25,0,0,1,78.558,364.889L52.674,243.876A249.5,249.5,0,0,0,79.348,236.546Z"
+      fill="#443983"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(74.63414634146338) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      elastic-search
+    </text>
+    <title>database . elastic-search</title>
+  </a>
+  <a>
+    <path
+      d="M77.58,365.098A373.25,373.25,0,0,1,36.193,371.491L24.358,248.308A249.5,249.5,0,0,0,51.697,244.085Z"
+      fill="#443983"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(81.21951219512195) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      cassandra
+    </text>
+    <title>database . cassandra</title>
+  </a>
+  <a>
+    <path
+      d="M35.198,371.587A373.25,373.25,0,0,1,-105.301,358.088L-70.229,239.412A249.5,249.5,0,0,0,23.363,248.404Z"
+      fill="#31688e"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(95.48780487804876) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      react
+    </text>
+    <title>frontend . react</title>
+  </a>
+  <a>
+    <path
+      d="M-106.26,357.805A373.25,373.25,0,0,1,-171.551,331.49L-114.527,221.662A249.5,249.5,0,0,0,-71.188,239.129Z"
+      fill="#31688e"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(111.95121951219511) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      solid
+    </text>
+    <title>frontend . solid</title>
+  </a>
+  <a>
+    <path
+      d="M-172.439,331.029A373.25,373.25,0,0,1,-220.143,301.418L-147.021,201.581A249.5,249.5,0,0,0,-115.414,221.201Z"
+      fill="#31688e"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(121.82926829268291) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      leptos
+    </text>
+    <title>frontend . leptos</title>
+  </a>
+  <a>
+    <path
+      d="M-220.949,300.827A373.25,373.25,0,0,1,-253.258,274.183L-169.169,183.391A249.5,249.5,0,0,0,-147.828,200.991Z"
+      fill="#31688e"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(129.5121951219512) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      astro
+    </text>
+    <title>frontend . astro</title>
+  </a>
+  <a>
+    <path
+      d="M-253.991,273.503A373.25,373.25,0,0,1,-283.031,243.329L-189.085,162.78A249.5,249.5,0,0,0,-169.903,182.711Z"
+      fill="#31688e"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(136.0975609756097) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      vue
+    </text>
+    <title>frontend . vue</title>
+  </a>
+  <a>
+    <path
+      d="M-283.682,242.57A373.25,373.25,0,0,1,-305.004,215.146L-203.785,143.951A249.5,249.5,0,0,0,-189.736,162.021Z"
+      fill="#31688e"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(142.13414634146335) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      htmx
+    </text>
+    <title>frontend . htmx</title>
+  </a>
+  <a>
+    <path
+      d="M-305.58,214.329A373.25,373.25,0,0,1,-363.318,85.533L-242.823,57.336A249.5,249.5,0,0,0,-204.361,143.133Z"
+      fill="#21918c"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(155.8536585365853) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      yargs
+    </text>
+    <title>OSS . yargs</title>
+  </a>
+  <a>
+    <path
+      d="M-363.545,84.559A373.25,373.25,0,0,1,-372.193,-28.073L-248.806,-18.6A249.5,249.5,0,0,0,-243.05,56.362Z"
+      fill="#21918c"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(175.60975609756093) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      string-ts
+    </text>
+    <title>OSS . string-ts</title>
+  </a>
+  <a>
+    <path
+      d="M-372.116,-29.071A373.25,373.25,0,0,1,-368.952,-56.482L-246.652,-37.592A249.5,249.5,0,0,0,-248.729,-19.598Z"
+      fill="#21918c"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(186.58536585365852) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      ruff
+    </text>
+    <title>OSS . ruff</title>
+  </a>
+  <a>
+    <path
+      d="M-368.799,-57.47A373.25,373.25,0,0,1,-363.545,-84.559L-243.05,-56.362A249.5,249.5,0,0,0,-246.499,-38.58Z"
+      fill="#21918c"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(190.97560975609753) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      biome
+    </text>
+    <title>OSS . biome</title>
+  </a>
+  <a>
+    <path
+      d="M-363.318,-85.533A373.25,373.25,0,0,1,-356.006,-112.14L-238.023,-74.802A249.5,249.5,0,0,0,-242.823,-57.336Z"
+      fill="#21918c"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(195.3658536585366) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      polars
+    </text>
+    <title>OSS . polars</title>
+  </a>
+  <a>
+    <path
+      d="M-355.704,-113.094A373.25,373.25,0,0,1,-237.863,-287.64L-159.128,-192.168A249.5,249.5,0,0,0,-237.721,-75.756Z"
+      fill="#35b779"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(214.02439024390247) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      pipelines
+    </text>
+    <title>data . pipelines</title>
+  </a>
+  <a>
+    <path
+      d="M-237.092,-288.276A373.25,373.25,0,0,1,-191.167,-320.579L-127.929,-214.207A249.5,249.5,0,0,0,-158.356,-192.804Z"
+      fill="#35b779"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(234.87804878048786) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      visualization
+    </text>
+    <title>data . visualization</title>
+  </a>
+  <a>
+    <path
+      d="M-190.308,-321.09A373.25,373.25,0,0,1,-126.635,-351.111L-84.806,-234.645A249.5,249.5,0,0,0,-127.069,-214.718Z"
+      fill="#90d743"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(244.75609756097566) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      node (yargs)
+    </text>
+    <title>cli . node (yargs)</title>
+  </a>
+  <a>
+    <path
+      d="M-125.694,-351.449A373.25,373.25,0,0,1,-85.533,-363.318L-57.336,-242.823A249.5,249.5,0,0,0,-83.864,-234.983Z"
+      fill="#90d743"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(253.53658536585368) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      python (typer)
+    </text>
+    <title>cli . python (typer)</title>
+  </a>
+  <a>
+    <path
+      d="M-84.559,-363.545A373.25,373.25,0,0,1,-43.302,-370.73L-29.11,-247.796A249.5,249.5,0,0,0,-56.362,-243.05Z"
+      fill="#90d743"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(260.1219512195122) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      go (cobra)
+    </text>
+    <title>cli . go (cobra)</title>
+  </a>
+  <a>
+    <path
+      d="M-42.309,-370.844A373.25,373.25,0,0,1,-0.5,-373.25L-0.5,-249.499A249.5,249.5,0,0,0,-28.117,-247.911Z"
+      fill="#90d743"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(266.70731707317077) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      rust (clap)
+    </text>
+    <title>cli . rust (clap)</title>
+  </a>
+  <a>
+    <path
+      d="M0.5,-498A498,498,0,0,1,75.525,-492.24L56.635,-369.94A374.25,374.25,0,0,0,0.5,-374.25Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-85.60975609756098) translate(436.625,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      chi
+    </text>
+    <title>backend . go . chi</title>
+  </a>
+  <a>
+    <path
+      d="M76.513,-492.087A498,498,0,0,1,149.78,-474.942L112.442,-356.959A374.25,374.25,0,0,0,57.623,-369.787Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-76.82926829268293) translate(436.625,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      fiber
+    </text>
+    <title>backend . go . fiber</title>
+  </a>
+  <a>
+    <path
+      d="M150.733,-474.64A498,498,0,0,1,194.514,-458.441L146.064,-344.57A374.25,374.25,0,0,0,113.396,-356.657Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-69.69512195121952) translate(436.625,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      gin
+    </text>
+    <title>backend . go . gin</title>
+  </a>
+  <a>
+    <path
+      d="M195.434,-458.05A498,498,0,0,1,278.239,-413.022L208.995,-310.458A374.25,374.25,0,0,0,146.984,-344.178Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-61.463414634146346) translate(436.625,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      express
+    </text>
+    <title>backend . node . express</title>
+  </a>
+  <a>
+    <path
+      d="M279.068,-412.462A498,498,0,0,1,351.785,-352.493L264.281,-264.988A374.25,374.25,0,0,0,209.824,-309.898Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-50.487804878048784) translate(436.625,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      koa
+    </text>
+    <title>backend . node . koa</title>
+  </a>
+  <a>
+    <path
+      d="M352.493,-351.785A498,498,0,0,1,412.462,-279.068L309.898,-209.824A374.25,374.25,0,0,0,264.988,-264.281Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-39.51219512195123) translate(436.625,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      axum
+    </text>
+    <title>backend . rust . axum</title>
+  </a>
+  <a>
+    <path
+      d="M413.022,-278.239A498,498,0,0,1,458.05,-195.434L344.178,-146.984A374.25,374.25,0,0,0,310.458,-208.995Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-28.536585365853675) translate(436.625,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      actix
+    </text>
+    <title>backend . rust . actix</title>
+  </a>
+  <a>
+    <path
+      d="M458.441,-194.514A498,498,0,0,1,482.514,-123.223L362.582,-92.723A374.25,374.25,0,0,0,344.57,-146.064Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-18.65853658536588) translate(436.625,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      fastapi
+    </text>
+    <title>backend . python . fastapi</title>
+  </a>
+  <a>
+    <path
+      d="M482.761,-122.254A498,498,0,0,1,492.087,-76.513L369.787,-57.623A374.25,374.25,0,0,0,362.828,-91.754Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-11.52439024390246) translate(436.625,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      sanic
+    </text>
+    <title>backend . python . sanic</title>
+  </a>
+  <a>
+    <path
+      d="M492.24,-75.525A498,498,0,0,1,497.149,-29.103L373.603,-21.995A374.25,374.25,0,0,0,369.94,-56.635Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-6.036585365853682) translate(436.625,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      quart
+    </text>
+    <title>backend . python . quart</title>
+  </a>
+  <a>
+    <path
+      d="M497.206,-28.104A498,498,0,0,1,493.596,66.083L370.957,49.538A374.25,374.25,0,0,0,373.661,-20.996Z"
+      fill="#440154"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(2.1951219512195053) translate(436.625,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      wisp
+    </text>
+    <title>backend . gleam . wisp</title>
+  </a>
+  <a>
+    <path
+      d="M-474.64,-150.733A498,498,0,0,1,-437.738,-237.465L-329.022,-178.347A374.25,374.25,0,0,0,-356.657,-113.396Z"
+      fill="#35b779"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(203.0487804878049) translate(436.625,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      polars
+    </text>
+    <title>data . pipelines . polars</title>
+  </a>
+  <a>
+    <path
+      d="M-437.26,-238.344A498,498,0,0,1,-384.52,-316.463L-289.048,-237.728A374.25,374.25,0,0,0,-328.544,-179.226Z"
+      fill="#35b779"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(214.02439024390247) translate(436.625,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      pandas
+    </text>
+    <title>data . pipelines . pandas</title>
+  </a>
+  <a>
+    <path
+      d="M-383.883,-317.234A498,498,0,0,1,-345.689,-358.473L-259.877,-269.308A374.25,374.25,0,0,0,-288.411,-238.499Z"
+      fill="#35b779"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(222.8048780487805) translate(436.625,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      airflow
+    </text>
+    <title>data . pipelines . airflow</title>
+  </a>
+  <a>
+    <path
+      d="M-344.969,-359.166A498,498,0,0,1,-317.234,-383.883L-238.499,-288.411A374.25,374.25,0,0,0,-259.157,-270.002Z"
+      fill="#35b779"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(228.29268292682934) translate(436.625,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      spark
+    </text>
+    <title>data . pipelines . spark</title>
+  </a>
+  <a>
+    <path
+      d="M-316.463,-384.52A498,498,0,0,1,-286.918,-407.041L-215.722,-305.822A374.25,374.25,0,0,0,-237.728,-289.048Z"
+      fill="#35b779"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(232.6829268292683) translate(436.625,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      d3
+    </text>
+    <title>data . visualization . d3</title>
+  </a>
+  <a>
+    <path
+      d="M-286.1,-407.616A498,498,0,0,1,-254.917,-427.81L-191.678,-321.438A374.25,374.25,0,0,0,-214.904,-306.397Z"
+      fill="#35b779"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(237.07317073170736) translate(436.625,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      matplotlib
+    </text>
+    <title>data . visualization . matplotlib</title>
+  </a>
+</svg>

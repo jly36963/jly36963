@@ -1,0 +1,320 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="-500,-500,1000,1000"
+  width="1000"
+  height="1000"
+  style="max-width: 100%; height: auto; height: intrinsic"
+  font-family="sans-serif"
+  font-size="12"
+  text-anchor="middle"
+>
+  <a>
+    <path
+      d="M0,-123.75A123.75,123.75,0,1,1,0,123.75A123.75,123.75,0,1,1,0,-123.75Z"
+      fill="rgba(0, 0, 0, 0)"
+      fill-opacity="0.9"
+    ></path>
+    <text fill="white" dy="0.32em"></text>
+    <title></title>
+  </a>
+  <a>
+    <path
+      d="M0.5,-248.499A248.5,248.5,0,0,1,222.67,110.318L111.894,55.158A124.75,124.75,0,0,0,0.5,-124.749Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-31.764705882352942) translate(187.125,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      language 🌎
+    </text>
+    <title>language 🌎</title>
+  </a>
+  <a>
+    <path
+      d="M222.225,111.213A248.5,248.5,0,0,1,-167.044,183.98L-83.673,92.527A124.75,124.75,0,0,0,111.448,56.053Z"
+      fill="rgb(255, 94, 99)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(79.41176470588235) translate(187.125,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      Series 📺
+    </text>
+    <title>Series 📺</title>
+  </a>
+  <a>
+    <path
+      d="M-167.783,183.306A248.5,248.5,0,0,1,-222.67,-110.318L-111.894,-55.158A124.75,124.75,0,0,0,-84.412,91.854Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(169.41176470588238) translate(187.125,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      music 🎵
+    </text>
+    <title>music 🎵</title>
+  </a>
+  <a>
+    <path
+      d="M-222.225,-111.213A248.5,248.5,0,0,1,-0.5,-248.499L-0.5,-124.749A124.75,124.75,0,0,0,-111.448,-56.053Z"
+      fill="rgb(26, 199, 194)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(238.23529411764707) translate(187.125,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      sports ⚽
+    </text>
+    <title>sports ⚽</title>
+  </a>
+  <a>
+    <path
+      d="M0.5,-373.25A373.25,373.25,0,0,1,371.611,-34.937L248.389,-23.519A249.5,249.5,0,0,0,0.5,-249.499Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-47.64705882352941) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      Portuguese
+    </text>
+    <title>language 🌎 . Portuguese</title>
+  </a>
+  <a>
+    <path
+      d="M371.704,-33.941A373.25,373.25,0,0,1,334.342,165.924L223.566,110.764A249.5,249.5,0,0,0,248.481,-22.523Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(10.588235294117638) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      Spanish
+    </text>
+    <title>language 🌎 . Spanish</title>
+  </a>
+  <a>
+    <path
+      d="M333.897,166.819A373.25,373.25,0,0,1,135.3,347.864L90.596,232.471A249.5,249.5,0,0,0,223.12,111.659Z"
+      fill="rgb(255, 94, 99)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(47.64705882352945) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      Naruto
+    </text>
+    <title>Series 📺 . Naruto</title>
+  </a>
+  <a>
+    <path
+      d="M134.367,348.226A373.25,373.25,0,0,1,0.5,373.25L0.5,249.499A249.5,249.5,0,0,0,89.663,232.832Z"
+      fill="rgb(255, 94, 99)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(79.41176470588235) translate(311.875,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      Avatar
+    </text>
+    <title>Series 📺 . Avatar</title>
+  </a>
+  <a>
+    <path
+      d="M-0.5,373.25A373.25,373.25,0,0,1,-134.367,348.226L-89.663,232.832A249.5,249.5,0,0,0,-0.5,249.499Z"
+      fill="rgb(255, 94, 99)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(100.58823529411762) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Silo
+    </text>
+    <title>Series 📺 . Silo</title>
+  </a>
+  <a>
+    <path
+      d="M-135.3,347.864A373.25,373.25,0,0,1,-251.087,276.172L-167.717,184.719A249.5,249.5,0,0,0,-90.596,232.471Z"
+      fill="rgb(255, 94, 99)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(121.7647058823529) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Spongebob
+    </text>
+    <title>Series 📺 . Spongebob</title>
+  </a>
+  <a>
+    <path
+      d="M-251.826,275.498A373.25,373.25,0,0,1,-371.611,34.937L-248.389,23.519A249.5,249.5,0,0,0,-168.456,184.046Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(153.52941176470588) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      concerts
+    </text>
+    <title>music 🎵 . concerts</title>
+  </a>
+  <a>
+    <path
+      d="M-371.704,33.941A373.25,373.25,0,0,1,-334.342,-165.924L-223.566,-110.764A249.5,249.5,0,0,0,-248.481,22.523Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(190.58823529411768) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      guitar
+    </text>
+    <title>music 🎵 . guitar</title>
+  </a>
+  <a>
+    <path
+      d="M-333.897,-166.819A373.25,373.25,0,0,1,-135.3,-347.864L-90.596,-232.471A249.5,249.5,0,0,0,-223.12,-111.659Z"
+      fill="rgb(26, 199, 194)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(227.64705882352945) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      soccer
+    </text>
+    <title>sports ⚽ . soccer</title>
+  </a>
+  <a>
+    <path
+      d="M-134.367,-348.226A373.25,373.25,0,0,1,-0.5,-373.25L-0.5,-249.499A249.5,249.5,0,0,0,-89.663,-232.832Z"
+      fill="rgb(26, 199, 194)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(259.4117647058824) translate(311.875,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      hockey
+    </text>
+    <title>sports ⚽ . hockey</title>
+  </a>
+  <a>
+    <path
+      d="M-335.87,367.689A498,498,0,0,1,-397.111,300.511L-298.356,225.935A374.25,374.25,0,0,0,-252.5,276.237Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(137.64705882352942) translate(436.625,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      acoustic
+    </text>
+    <title>music 🎵 . concerts . acoustic</title>
+  </a>
+  <a>
+    <path
+      d="M-397.714,299.713A498,498,0,0,1,-445.568,222.425L-334.792,167.265A374.25,374.25,0,0,0,-298.959,225.137Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(148.23529411764704) translate(436.625,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      pop-punk
+    </text>
+    <title>music 🎵 . concerts . pop-punk</title>
+  </a>
+  <a>
+    <path
+      d="M-446.014,221.53A498,498,0,0,1,-478.852,136.765L-359.826,102.899A374.25,374.25,0,0,0,-335.237,166.37Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(158.82352941176478) translate(436.625,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      djent
+    </text>
+    <title>music 🎵 . concerts . djent</title>
+  </a>
+  <a>
+    <path
+      d="M-479.126,135.803A498,498,0,0,1,-495.829,46.447L-372.607,35.029A374.25,374.25,0,0,0,-360.1,101.937Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(169.41176470588238) translate(436.625,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      electronic
+    </text>
+    <title>music 🎵 . concerts . electronic</title>
+  </a>
+  <a>
+    <path
+      d="M-495.922,45.452A498,498,0,0,1,-479.126,-135.803L-360.1,-101.937A374.25,374.25,0,0,0,-372.699,34.034Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(185.2941176470589) translate(436.625,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      acoustic
+    </text>
+    <title>music 🎵 . guitar . acoustic</title>
+  </a>
+  <a>
+    <path
+      d="M-478.852,-136.765A498,498,0,0,1,-446.014,-221.53L-335.237,-166.37A374.25,374.25,0,0,0,-359.826,-102.899Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(201.17647058823536) translate(436.625,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      electric
+    </text>
+    <title>music 🎵 . guitar . electric</title>
+  </a>
+</svg>
