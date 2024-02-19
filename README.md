@@ -1,7 +1,8 @@
 ## 👋 Hey! I'm Landon
 
-I'm a remote software developer from NM. \
-I typically work with Node, Python, Go, and Rust.
+🌶️ I'm a remote software developer from NM. \
+💻 I typically work with Node, Python, Go, and Rust. \
+🎸 I like guitar, soccer, hockey, and learning Portuguese.
 
 ### Repos
 
