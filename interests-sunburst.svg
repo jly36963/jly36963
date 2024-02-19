@@ -1,0 +1,1025 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="-500,-500,1000,1000"
+  width="1000"
+  height="1000"
+  style="max-width: 100%; height: auto; height: intrinsic"
+  font-family="sans-serif"
+  font-size="12"
+  text-anchor="middle"
+>
+  <a>
+    <path
+      d="M0,-98.8A98.8,98.8,0,1,1,0,98.8A98.8,98.8,0,1,1,0,-98.8Z"
+      fill="rgba(0, 0, 0, 0)"
+      fill-opacity="0.9"
+    ></path>
+    <text fill="white" dy="0.32em"></text>
+    <title></title>
+  </a>
+  <a>
+    <path
+      d="M0.5,-198.599A198.6,198.6,0,0,1,41.78,194.156L21.238,97.514A99.8,99.8,0,0,0,0.5,-99.799Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-6.000000000000014) translate(149.7,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      software 💻
+    </text>
+    <title>software 💻</title>
+  </a>
+  <a>
+    <path
+      d="M40.802,194.363A198.6,198.6,0,0,1,-194.156,41.78L-97.514,21.238A99.8,99.8,0,0,0,20.26,97.722Z"
+      fill="rgb(255, 94, 99)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(122.99999999999997) translate(149.7,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      language 🌎
+    </text>
+    <title>language 🌎</title>
+  </a>
+  <a>
+    <path
+      d="M-194.363,40.802A198.6,198.6,0,0,1,-139.31,-141.544L-70.183,-70.954A99.8,99.8,0,0,0,-97.722,20.26Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(196.79999999999995) translate(149.7,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      guitar 🎸
+    </text>
+    <title>guitar 🎸</title>
+  </a>
+  <a>
+    <path
+      d="M-138.595,-142.244A198.6,198.6,0,0,1,-0.5,-198.599L-0.5,-99.799A99.8,99.8,0,0,0,-69.468,-71.653Z"
+      fill="rgb(26, 199, 194)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(247.79999999999995) translate(149.7,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      sports ⚽
+    </text>
+    <title>sports ⚽</title>
+  </a>
+  <a>
+    <path
+      d="M0.5,-298.4A298.4,298.4,0,0,1,239.262,-178.315L159.944,-119.408A199.6,199.6,0,0,0,0.5,-199.599Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-63.300000000000004) translate(249.5,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      backend
+    </text>
+    <title>software 💻 . backend</title>
+  </a>
+  <a>
+    <path
+      d="M239.859,-177.512A298.4,298.4,0,0,1,297.122,27.584L198.761,18.286A199.6,199.6,0,0,0,160.54,-118.605Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-15.600000000000009) translate(249.5,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      database
+    </text>
+    <title>software 💻 . database</title>
+  </a>
+  <a>
+    <path
+      d="M297.028,28.58A298.4,298.4,0,0,1,234.164,184.958L156.735,123.589A199.6,199.6,0,0,0,198.666,19.282Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(21.900000000000006) translate(249.5,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      frontend
+    </text>
+    <title>software 💻 . frontend</title>
+  </a>
+  <a>
+    <path
+      d="M233.543,185.742A298.4,298.4,0,0,1,144.193,261.249L96.596,174.669A199.6,199.6,0,0,0,156.114,124.373Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(49.80000000000001) translate(249.5,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      data
+    </text>
+    <title>software 💻 . data</title>
+  </a>
+  <a>
+    <path
+      d="M143.317,261.73A298.4,298.4,0,0,1,62.53,291.775L41.988,195.134A199.6,199.6,0,0,0,95.72,175.151Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(69.6) translate(249.5,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      cli
+    </text>
+    <title>software 💻 . cli</title>
+  </a>
+  <a>
+    <path
+      d="M61.552,291.983A298.4,298.4,0,0,1,-258.172,149.633L-172.608,100.233A199.6,199.6,0,0,0,41.01,195.342Z"
+      fill="rgb(255, 94, 99)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(114) translate(249.5,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Portuguese
+    </text>
+    <title>language 🌎 . Portuguese</title>
+  </a>
+  <a>
+    <path
+      d="M-258.672,148.767A298.4,298.4,0,0,1,-291.775,62.53L-195.134,41.988A199.6,199.6,0,0,0,-173.108,99.367Z"
+      fill="rgb(255, 94, 99)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(159) translate(249.5,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Spanish
+    </text>
+    <title>language 🌎 . Spanish</title>
+  </a>
+  <a>
+    <path
+      d="M-291.983,61.552A298.4,298.4,0,0,1,-258.672,-148.767L-173.108,-99.367A199.6,199.6,0,0,0,-195.342,41.01Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(188.99999999999994) translate(249.5,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      acoustic
+    </text>
+    <title>guitar 🎸 . acoustic</title>
+  </a>
+  <a>
+    <path
+      d="M-258.172,-149.633A298.4,298.4,0,0,1,-209.136,-212.849L-140.01,-142.258A199.6,199.6,0,0,0,-172.608,-100.233Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(217.79999999999995) translate(249.5,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      electric
+    </text>
+    <title>guitar 🎸 . electric</title>
+  </a>
+  <a>
+    <path
+      d="M-208.422,-213.548A298.4,298.4,0,0,1,-110.313,-277.261L-73.942,-185.399A199.6,199.6,0,0,0,-139.295,-142.958Z"
+      fill="rgb(26, 199, 194)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(236.99999999999994) translate(249.5,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      hockey
+    </text>
+    <title>sports ⚽ . hockey</title>
+  </a>
+  <a>
+    <path
+      d="M-109.383,-277.629A298.4,298.4,0,0,1,-0.5,-298.4L-0.5,-199.599A199.6,199.6,0,0,0,-73.013,-185.767Z"
+      fill="rgb(26, 199, 194)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(259.19999999999993) translate(249.5,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      soccer
+    </text>
+    <title>sports ⚽ . soccer</title>
+  </a>
+  <a>
+    <path
+      d="M0.5,-398.2A398.2,398.2,0,0,1,86.377,-388.719L64.824,-292.298A299.4,299.4,0,0,0,0.5,-299.4Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-83.7) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      go
+    </text>
+    <title>software 💻 . backend . go</title>
+  </a>
+  <a>
+    <path
+      d="M87.353,-388.501A398.2,398.2,0,0,1,165.308,-362.266L124.18,-272.433A299.4,299.4,0,0,0,65.8,-292.08Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-71.4) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      node
+    </text>
+    <title>software 💻 . backend . node</title>
+  </a>
+  <a>
+    <path
+      d="M166.217,-361.849A398.2,398.2,0,0,1,237.015,-319.98L178.108,-240.661A299.4,299.4,0,0,0,125.089,-272.017Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-59.400000000000006) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      rust
+    </text>
+    <title>software 💻 . backend . rust</title>
+  </a>
+  <a>
+    <path
+      d="M237.818,-319.384A398.2,398.2,0,0,1,292.775,-269.9L220.049,-203.024A299.4,299.4,0,0,0,178.911,-240.065Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-48.00000000000001) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      python
+    </text>
+    <title>software 💻 . backend . python</title>
+  </a>
+  <a>
+    <path
+      d="M293.452,-269.164A398.2,398.2,0,0,1,319.384,-237.818L240.065,-178.911A299.4,299.4,0,0,0,220.726,-202.288Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-39.6) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      gleam
+    </text>
+    <title>software 💻 . backend . gleam</title>
+  </a>
+  <a>
+    <path
+      d="M319.98,-237.015A398.2,398.2,0,0,1,388.501,-87.353L292.08,-65.8A299.4,299.4,0,0,0,240.661,-178.108Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-24.60000000000001) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      postgres
+    </text>
+    <title>software 💻 . database . postgres</title>
+  </a>
+  <a>
+    <path
+      d="M388.719,-86.377A398.2,398.2,0,0,1,395.503,-46.265L297.358,-34.909A299.4,299.4,0,0,0,292.298,-64.824Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-9.600000000000023) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      redis
+    </text>
+    <title>software 💻 . database . redis</title>
+  </a>
+  <a>
+    <path
+      d="M395.618,-45.271A398.2,398.2,0,0,1,397.987,-13.008L299.236,-9.904A299.4,299.4,0,0,0,297.473,-33.915Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-4.200000000000017) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      mongo
+    </text>
+    <title>software 💻 . database . mongo</title>
+  </a>
+  <a>
+    <path
+      d="M398.019,-12.008A398.2,398.2,0,0,1,398.019,12.008L299.268,8.905A299.4,299.4,0,0,0,299.268,-8.905Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-1.4210854715202004e-14) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      elastic-search
+    </text>
+    <title>software 💻 . database . elastic-search</title>
+  </a>
+  <a>
+    <path
+      d="M397.987,13.008A398.2,398.2,0,0,1,396.48,36.976L298.118,27.678A299.4,299.4,0,0,0,299.236,9.904Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(3.59999999999998) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      cassandra
+    </text>
+    <title>software 💻 . database . cassandra</title>
+  </a>
+  <a>
+    <path
+      d="M396.385,37.972A398.2,398.2,0,0,1,380.128,118.601L285.849,89.056A299.4,299.4,0,0,0,298.024,28.674Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(11.400000000000006) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      react
+    </text>
+    <title>software 💻 . frontend . react</title>
+  </a>
+  <a>
+    <path
+      d="M379.829,119.555A398.2,398.2,0,0,1,365.648,157.685L274.974,118.447A299.4,299.4,0,0,0,285.55,90.01Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(20.400000000000006) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      solid
+    </text>
+    <title>software 💻 . frontend . solid</title>
+  </a>
+  <a>
+    <path
+      d="M365.251,158.603A398.2,398.2,0,0,1,351.171,187.729L264.098,141.041A299.4,299.4,0,0,0,274.577,119.365Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(25.799999999999997) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      leptos
+    </text>
+    <title>software 💻 . frontend . leptos</title>
+  </a>
+  <a>
+    <path
+      d="M350.698,188.61A398.2,398.2,0,0,1,338.69,209.409L254.721,157.345A299.4,299.4,0,0,0,263.626,141.922Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(30.000000000000014) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      astro
+    </text>
+    <title>software 💻 . frontend . astro</title>
+  </a>
+  <a>
+    <path
+      d="M338.164,210.259A398.2,398.2,0,0,1,324.873,230.262L244.339,173.029A299.4,299.4,0,0,0,254.194,158.195Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(33.599999999999994) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      vue
+    </text>
+    <title>software 💻 . frontend . vue</title>
+  </a>
+  <a>
+    <path
+      d="M324.294,231.077A398.2,398.2,0,0,1,312.377,246.949L234.948,185.58A299.4,299.4,0,0,0,243.759,173.844Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(36.89999999999999) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      htmx
+    </text>
+    <title>software 💻 . frontend . htmx</title>
+  </a>
+  <a>
+    <path
+      d="M311.756,247.733A398.2,398.2,0,0,1,220.777,331.392L166.102,249.1A299.4,299.4,0,0,0,234.327,186.363Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(47.400000000000006) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      pipelines
+    </text>
+    <title>software 💻 . data . pipelines</title>
+  </a>
+  <a>
+    <path
+      d="M219.944,331.946A398.2,398.2,0,0,1,192.272,348.704L144.675,262.125A299.4,299.4,0,0,0,165.269,249.653Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(58.80000000000001) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      visualization
+    </text>
+    <title>software 💻 . data . visualization</title>
+  </a>
+  <a>
+    <path
+      d="M191.396,349.186A398.2,398.2,0,0,1,154.77,366.892L116.483,275.812A299.4,299.4,0,0,0,143.799,262.607Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(64.20000000000002) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      node (yargs)
+    </text>
+    <title>software 💻 . cli . node (yargs)</title>
+  </a>
+  <a>
+    <path
+      d="M153.848,367.279A398.2,398.2,0,0,1,131.427,375.886L98.935,282.581A299.4,299.4,0,0,0,115.561,276.199Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(69.00000000000003) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      python (typer)
+    </text>
+    <title>software 💻 . cli . python (typer)</title>
+  </a>
+  <a>
+    <path
+      d="M130.482,376.215A398.2,398.2,0,0,1,107.565,383.397L80.996,288.236A299.4,299.4,0,0,0,97.99,282.91Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(72.6) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      go (cobra)
+    </text>
+    <title>software 💻 . cli . go (cobra)</title>
+  </a>
+  <a>
+    <path
+      d="M106.602,383.665A398.2,398.2,0,0,1,83.279,389.394L62.738,292.753A299.4,299.4,0,0,0,80.033,288.505Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(76.20000000000005) translate(349.29999999999995,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      rust (clap)
+    </text>
+    <title>software 💻 . cli . rust (clap)</title>
+  </a>
+  <a>
+    <path
+      d="M-389.602,82.301A398.2,398.2,0,0,1,-398.2,0.5L-299.4,0.5A299.4,299.4,0,0,0,-292.961,61.76Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(174) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Daijiro Nakagawa
+    </text>
+    <title>guitar 🎸 . acoustic . Daijiro Nakagawa</title>
+  </a>
+  <a>
+    <path
+      d="M-398.2,-0.5A398.2,398.2,0,0,1,-389.602,-82.301L-292.961,-61.76A299.4,299.4,0,0,0,-299.4,-0.5Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(186.00000000000006) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Youngso Kim
+    </text>
+    <title>guitar 🎸 . acoustic . Youngso Kim</title>
+  </a>
+  <a>
+    <path
+      d="M-389.394,-83.279A398.2,398.2,0,0,1,-363.977,-161.506L-273.718,-121.32A299.4,299.4,0,0,0,-292.753,-62.738Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(198) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Yvette Young
+    </text>
+    <title>guitar 🎸 . acoustic . Yvette Young</title>
+  </a>
+  <a>
+    <path
+      d="M-363.57,-162.419A398.2,398.2,0,0,1,-345.101,-198.667L-259.538,-149.267A299.4,299.4,0,0,0,-273.312,-122.234Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(207.00000000000006) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Mike Dawes
+    </text>
+    <title>guitar 🎸 . acoustic . Mike Dawes</title>
+  </a>
+  <a>
+    <path
+      d="M-344.601,-199.533A398.2,398.2,0,0,1,-322.444,-233.651L-242.513,-175.578A299.4,299.4,0,0,0,-259.038,-150.133Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(213) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Erra
+    </text>
+    <title>guitar 🎸 . electric . Erra</title>
+  </a>
+  <a>
+    <path
+      d="M-321.856,-234.46A398.2,398.2,0,0,1,-296.255,-266.076L-222.832,-199.966A299.4,299.4,0,0,0,-241.925,-176.387Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(218.99999999999994) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Intervals
+    </text>
+    <title>guitar 🎸 . electric . Intervals</title>
+  </a>
+  <a>
+    <path
+      d="M-295.585,-266.819A398.2,398.2,0,0,1,-278.963,-284.153L-209.836,-213.563A299.4,299.4,0,0,0,-222.163,-200.709Z"
+      fill="rgb(175, 240, 91)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(223.7999999999999) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Polyphia
+    </text>
+    <title>guitar 🎸 . electric . Polyphia</title>
+  </a>
+  <a>
+    <path
+      d="M-278.248,-284.853A398.2,398.2,0,0,1,-213.788,-335.943L-160.848,-252.524A299.4,299.4,0,0,0,-209.122,-214.263Z"
+      fill="rgb(26, 199, 194)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(231.5999999999999) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Avalanche
+    </text>
+    <title>sports ⚽ . hockey . Avalanche</title>
+  </a>
+  <a>
+    <path
+      d="M-212.944,-336.479A398.2,398.2,0,0,1,-192.272,-348.704L-144.675,-262.125A299.4,299.4,0,0,0,-160.004,-253.059Z"
+      fill="rgb(26, 199, 194)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(239.39999999999998) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Oilers
+    </text>
+    <title>sports ⚽ . hockey . Oilers</title>
+  </a>
+  <a>
+    <path
+      d="M-191.396,-349.186A398.2,398.2,0,0,1,-169.998,-360.089L-127.931,-270.692A299.4,299.4,0,0,0,-143.799,-262.607Z"
+      fill="rgb(26, 199, 194)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(242.99999999999994) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Kraken
+    </text>
+    <title>sports ⚽ . hockey . Kraken</title>
+  </a>
+  <a>
+    <path
+      d="M-169.093,-360.515A398.2,398.2,0,0,1,-147.052,-370.053L-110.681,-278.191A299.4,299.4,0,0,0,-127.026,-271.118Z"
+      fill="rgb(26, 199, 194)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(246.5999999999999) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Panthers
+    </text>
+    <title>sports ⚽ . hockey . Panthers</title>
+  </a>
+  <a>
+    <path
+      d="M-146.122,-370.421A398.2,398.2,0,0,1,-66.9,-392.54L-50.423,-295.123A299.4,299.4,0,0,0,-109.751,-278.559Z"
+      fill="rgb(26, 199, 194)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(254.39999999999998) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Real Madrid
+    </text>
+    <title>sports ⚽ . soccer . Real Madrid</title>
+  </a>
+  <a>
+    <path
+      d="M-65.914,-392.707A398.2,398.2,0,0,1,-0.5,-398.2L-0.5,-299.4A299.4,299.4,0,0,0,-49.437,-295.29Z"
+      fill="rgb(26, 199, 194)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(265.19999999999993) translate(349.29999999999995,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      Benfica
+    </text>
+    <title>sports ⚽ . soccer . Benfica</title>
+  </a>
+  <a>
+    <path
+      d="M0.5,-498A498,498,0,0,1,41.173,-496.295L32.906,-397.841A399.2,399.2,0,0,0,0.5,-399.2Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-87.6) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      chi
+    </text>
+    <title>software 💻 . backend . go . chi</title>
+  </a>
+  <a>
+    <path
+      d="M42.17,-496.211A498,498,0,0,1,82.558,-491.109L66.081,-393.693A399.2,399.2,0,0,0,33.902,-397.758Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-82.8) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      fiber
+    </text>
+    <title>software 💻 . backend . go . fiber</title>
+  </a>
+  <a>
+    <path
+      d="M83.544,-490.942A498,498,0,0,1,108.147,-486.115L86.595,-389.695A399.2,399.2,0,0,0,67.067,-393.526Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-78.9) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      gin
+    </text>
+    <title>software 💻 . backend . go . gin</title>
+  </a>
+  <a>
+    <path
+      d="M109.123,-485.897A498,498,0,0,1,158.368,-472.148L126.855,-378.508A399.2,399.2,0,0,0,87.571,-389.477Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-74.4) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      express
+    </text>
+    <title>software 💻 . backend . node . express</title>
+  </a>
+  <a>
+    <path
+      d="M159.316,-471.829A498,498,0,0,1,206.853,-453.007L165.725,-363.175A399.2,399.2,0,0,0,127.802,-378.189Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-68.4) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      koa
+    </text>
+    <title>software 💻 . backend . node . koa</title>
+  </a>
+  <a>
+    <path
+      d="M207.762,-452.591A498,498,0,0,1,253.072,-428.904L202.779,-343.862A399.2,399.2,0,0,0,166.634,-362.759Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-62.400000000000006) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      axum
+    </text>
+    <title>software 💻 . backend . rust . axum</title>
+  </a>
+  <a>
+    <path
+      d="M253.933,-428.395A498,498,0,0,1,296.518,-400.101L237.611,-320.783A399.2,399.2,0,0,0,203.64,-343.353Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-56.400000000000006) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      actix
+    </text>
+    <title>software 💻 . backend . rust . actix</title>
+  </a>
+  <a>
+    <path
+      d="M297.321,-399.505A498,498,0,0,1,328.958,-373.886L263.62,-299.775A399.2,399.2,0,0,0,238.414,-320.186Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-51.00000000000001) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      fastapi
+    </text>
+    <title>software 💻 . backend . python . fastapi</title>
+  </a>
+  <a>
+    <path
+      d="M329.708,-373.224A498,498,0,0,1,348.075,-356.157L278.948,-285.567A399.2,399.2,0,0,0,264.371,-299.113Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-47.10000000000001) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      sanic
+    </text>
+    <title>software 💻 . backend . python . sanic</title>
+  </a>
+  <a>
+    <path
+      d="M348.789,-355.457A498,498,0,0,1,366.238,-337.452L293.511,-270.577A399.2,399.2,0,0,0,279.663,-284.867Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-44.10000000000001) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      quart
+    </text>
+    <title>software 💻 . backend . python . quart</title>
+  </a>
+  <a>
+    <path
+      d="M366.915,-336.716A498,498,0,0,1,399.505,-297.321L320.186,-238.414A399.2,399.2,0,0,0,294.188,-269.841Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(-39.6) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      wisp
+    </text>
+    <title>software 💻 . backend . gleam . wisp</title>
+  </a>
+  <a>
+    <path
+      d="M389.969,309.723A498,498,0,0,1,356.157,348.075L285.567,278.948A399.2,399.2,0,0,0,312.54,248.354Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(41.400000000000034) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      polars
+    </text>
+    <title>software 💻 . data . pipelines . polars</title>
+  </a>
+  <a>
+    <path
+      d="M355.457,348.789A498,498,0,0,1,317.822,383.397L254.845,307.27A399.2,399.2,0,0,0,284.867,279.663Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(47.400000000000006) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      pandas
+    </text>
+    <title>software 💻 . data . pipelines . pandas</title>
+  </a>
+  <a>
+    <path
+      d="M317.052,384.034A498,498,0,0,1,293.121,402.596L235.048,322.665A399.2,399.2,0,0,0,254.074,307.907Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(52.20000000000002) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      airflow
+    </text>
+    <title>software 💻 . data . pipelines . airflow</title>
+  </a>
+  <a>
+    <path
+      d="M292.312,403.184A498,498,0,0,1,276.005,414.518L221.33,332.225A399.2,399.2,0,0,0,234.239,323.253Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(55.20000000000002) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      spark
+    </text>
+    <title>software 💻 . data . pipelines . spark</title>
+  </a>
+  <a>
+    <path
+      d="M275.172,415.071A498,498,0,0,1,258.405,425.712L207.224,341.202A399.2,399.2,0,0,0,220.497,332.779Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(57.599999999999994) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      d3
+    </text>
+    <title>software 💻 . data . visualization . d3</title>
+  </a>
+  <a>
+    <path
+      d="M257.55,426.23A498,498,0,0,1,240.351,436.16L192.754,349.58A399.2,399.2,0,0,0,206.369,341.72Z"
+      fill="rgb(110, 64, 170)"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(60.00000000000003) translate(449.1,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      matplotlib
+    </text>
+    <title>software 💻 . data . visualization . matplotlib</title>
+  </a>
+</svg>
