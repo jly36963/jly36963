@@ -2,7 +2,7 @@
 
 🌶️ I'm a remote software developer from NM. \
 💻 I typically work with Node, Python, Go, and Rust. \
-🎸 I like guitar, soccer, hockey, and learning Portuguese.
+🎸 I like guitar, soccer, and hockey.
 
 ### Repos
 
@@ -12,5 +12,3 @@
 ### Interests
 
 ![Landon's interests (software)](./sunburst-interests-software.svg)
-
-<!-- ![Landon's interests (hobbies)](./sunburst-interests-hobbies.svg) -->
