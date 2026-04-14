@@ -1,7 +1,7 @@
 ## 👋 Hey! I'm Landon
 
 🌶️ I'm a remote software developer from NM. \
-💻 I typically work with TypeScript, Rust, Python, and Go. \
+💻 I typically work with TypeScript, Rust, Python, and Scala. \
 🎸 I like guitar, soccer, and hockey.
 
 ### Repos
