@@ -1,3 +1,4 @@
+<!-- xmlns="http://www.w3.org/2000/svg" -->
 <svg
   xmlns="http://www.w3.org/2000/svg"
   viewBox="-500,-500,1000,1000"
@@ -10,7 +11,7 @@
 >
   <a>
     <path
-      d="M0,-123.75A123.75,123.75,0,1,1,0,123.75A123.75,123.75,0,1,1,0,-123.75Z"
+      d="M0,-165.333A165.333,165.333,0,1,1,0,165.333A165.333,165.333,0,1,1,0,-165.333Z"
       fill="rgba(0, 0, 0, 0)"
       fill-opacity="0.9"
     ></path>
@@ -19,42 +20,42 @@
   </a>
   <a>
     <path
-      d="M0.5,-248.499A248.5,248.5,0,0,1,236.652,75.815L118.878,37.823A124.75,124.75,0,0,0,0.5,-124.749Z"
+      d="M0.5,-331.666A331.667,331.667,0,0,1,275.493,-184.68L138.023,-92.825A166.333,166.333,0,0,0,0.5,-166.333Z"
       fill="#440154"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(-36.060606060606055) translate(187.125,0) rotate(0)"
+      transform="rotate(-61.875) translate(249.5,0) rotate(0)"
       fill="white"
       dy="0.32em"
     >
-      backend
+      typescript
     </text>
-    <title>backend</title>
+    <title>typescript</title>
   </a>
   <a>
     <path
-      d="M236.345,76.766A248.5,248.5,0,0,1,8.384,248.359L4.458,124.67A124.75,124.75,0,0,0,118.571,38.774Z"
-      fill="#443983"
+      d="M276.048,-183.848A331.667,331.667,0,0,1,306.611,126.461L153.863,63.191A166.333,166.333,0,0,0,138.578,-91.994Z"
+      fill="#482173"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(53.03030303030303) translate(187.125,0) rotate(0)"
+      transform="rotate(-5.624999999999986) translate(249.5,0) rotate(0)"
       fill="white"
       dy="0.32em"
     >
-      database
+      rust
     </text>
-    <title>database</title>
+    <title>rust</title>
   </a>
   <a>
     <path
-      d="M7.385,248.39A248.5,248.5,0,0,1,-194.207,155.035L-97.339,78.024A124.75,124.75,0,0,0,3.458,124.702Z"
-      fill="#31688e"
+      d="M306.228,127.385A331.667,331.667,0,0,1,127.385,306.228L64.115,153.48A166.333,166.333,0,0,0,153.48,64.115Z"
+      fill="#433e85"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(114.84848484848484) translate(187.125,0) rotate(180)"
+      transform="rotate(45.00000000000003) translate(249.5,0) rotate(0)"
       fill="white"
       dy="0.32em"
     >
@@ -64,177 +65,222 @@
   </a>
   <a>
     <path
-      d="M-194.83,154.252A248.5,248.5,0,0,1,-244.811,-42.659L-122.941,-21.17A124.75,124.75,0,0,0,-97.961,77.241Z"
-      fill="#21918c"
+      d="M126.461,306.611A331.667,331.667,0,0,1,-102.015,315.588L-50.924,158.346A166.333,166.333,0,0,0,63.191,153.863Z"
+      fill="#38588c"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(165.75757575757578) translate(187.125,0) rotate(180)"
+      transform="rotate(87.75000000000003) translate(249.5,0) rotate(0)"
       fill="white"
       dy="0.32em"
     >
-      OSS
+      database
     </text>
-    <title>OSS</title>
+    <title>database</title>
   </a>
   <a>
     <path
-      d="M-244.637,-43.644A248.5,248.5,0,0,1,-139.156,-205.883L-70.064,-103.216A124.75,124.75,0,0,0,-122.767,-22.155Z"
-      fill="#35b779"
+      d="M-102.966,315.279A331.667,331.667,0,0,1,-268.03,195.353L-134.272,98.172A166.333,166.333,0,0,0,-51.875,158.037Z"
+      fill="#2d708e"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(213.03030303030306) translate(187.125,0) rotate(180)"
+      transform="rotate(126) translate(249.5,0) rotate(180)"
       fill="white"
       dy="0.32em"
     >
-      data
+      data-pipelines
     </text>
-    <title>data</title>
+    <title>data-pipelines</title>
   </a>
   <a>
     <path
-      d="M-138.326,-206.441A248.5,248.5,0,0,1,-0.5,-248.499L-0.5,-124.749A124.75,124.75,0,0,0,-69.235,-103.774Z"
-      fill="#90d743"
+      d="M-268.618,194.544A331.667,331.667,0,0,1,-331.391,13.521L-166.185,7.03A166.333,166.333,0,0,0,-134.86,97.363Z"
+      fill="#25858e"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(253.030303030303) translate(187.125,0) rotate(180)"
-      fill="white"
-      dy="0.32em"
-    >
-      cli
-    </text>
-    <title>cli</title>
-  </a>
-  <a>
-    <path
-      d="M0.5,-373.25A373.25,373.25,0,0,1,159.969,-337.232L106.782,-225.495A249.5,249.5,0,0,0,0.5,-249.499Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-77.27272727272727) translate(311.875,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      go
-    </text>
-    <title>backend . go</title>
-  </a>
-  <a>
-    <path
-      d="M160.872,-336.802A373.25,373.25,0,0,1,284.33,-241.81L189.953,-161.765A249.5,249.5,0,0,0,107.685,-225.065Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-52.42424242424242) translate(311.875,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      node
-    </text>
-    <title>backend . node</title>
-  </a>
-  <a>
-    <path
-      d="M284.976,-241.048A373.25,373.25,0,0,1,358.543,-103.741L239.623,-69.506A249.5,249.5,0,0,0,190.6,-161.002Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-28.181818181818173) translate(311.875,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      rust
-    </text>
-    <title>backend . rust</title>
-  </a>
-  <a>
-    <path
-      d="M358.82,-102.781A373.25,373.25,0,0,1,371.417,36.947L248.291,24.532A249.5,249.5,0,0,0,239.9,-68.545Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-5.151515151515142) translate(311.875,0) rotate(0)"
+      transform="rotate(160.875) translate(249.5,0) rotate(180)"
       fill="white"
       dy="0.32em"
     >
       python
     </text>
-    <title>backend . python</title>
+    <title>python</title>
   </a>
   <a>
     <path
-      d="M371.317,37.942A373.25,373.25,0,0,1,355.378,114.113L237.604,76.122A249.5,249.5,0,0,0,248.191,25.527Z"
-      fill="#440154"
+      d="M-331.43,12.522A331.667,331.667,0,0,1,-301.41,-138.401L-151.263,-69.183A166.333,166.333,0,0,0,-166.224,6.031Z"
+      fill="#1e9b8a"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(11.818181818181827) translate(311.875,0) rotate(0)"
+      transform="rotate(191.25) translate(249.5,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      math
+    </text>
+    <title>math</title>
+  </a>
+  <a>
+    <path
+      d="M-300.991,-139.309A331.667,331.667,0,0,1,-225.502,-243.211L-113.274,-121.802A166.333,166.333,0,0,0,-150.844,-70.091Z"
+      fill="#2ab07f"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(216) translate(249.5,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      visualization
+    </text>
+    <title>visualization</title>
+  </a>
+  <a>
+    <path
+      d="M-224.768,-243.889A331.667,331.667,0,0,1,-127.385,-306.228L-64.115,-153.48A166.333,166.333,0,0,0,-112.54,-122.481Z"
+      fill="#52c569"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(237.37500000000006) translate(249.5,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      go
+    </text>
+    <title>go</title>
+  </a>
+  <a>
+    <path
+      d="M-126.461,-306.611A331.667,331.667,0,0,1,-65.195,-325.196L-32.94,-163.039A166.333,166.333,0,0,0,-63.191,-153.863Z"
+      fill="#86d549"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(253.12500000000006) translate(249.5,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      scala
+    </text>
+    <title>scala</title>
+  </a>
+  <a>
+    <path
+      d="M-64.214,-325.391A331.667,331.667,0,0,1,-0.5,-331.666L-0.5,-166.333A166.333,166.333,0,0,0,-31.959,-163.234Z"
+      fill="#c2df23"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(264.375) translate(249.5,0) rotate(180)"
       fill="white"
       dy="0.32em"
     >
       gleam
     </text>
-    <title>backend . gleam</title>
+    <title>gleam</title>
   </a>
   <a>
     <path
-      d="M355.071,115.065A373.25,373.25,0,0,1,150.105,341.737L100.49,228.368A249.5,249.5,0,0,0,237.297,77.073Z"
-      fill="#443983"
+      d="M0.5,-498A498,498,0,0,1,190.114,-460.283L126.844,-307.535A332.667,332.667,0,0,0,0.5,-332.666Z"
+      fill="#440154"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(42.12121212121215) translate(311.875,0) rotate(0)"
+      transform="rotate(-78.75) translate(415.83333333333337,0) rotate(0)"
       fill="white"
       dy="0.32em"
     >
-      postgres
+      hono
     </text>
-    <title>database . postgres</title>
+    <title>typescript . hono</title>
   </a>
   <a>
     <path
-      d="M149.189,342.138A373.25,373.25,0,0,1,75.001,365.637L50.297,244.378A249.5,249.5,0,0,0,99.574,228.769Z"
-      fill="#443983"
+      d="M191.038,-459.9A498,498,0,0,1,351.785,-352.493L234.877,-235.584A332.667,332.667,0,0,0,127.768,-307.152Z"
+      fill="#440154"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(72.42424242424244) translate(311.875,0) rotate(0)"
+      transform="rotate(-56.24999999999999) translate(415.83333333333337,0) rotate(0)"
       fill="white"
       dy="0.32em"
     >
-      redis
+      express
     </text>
-    <title>database . redis</title>
+    <title>typescript . express</title>
   </a>
   <a>
     <path
-      d="M74.021,365.837A373.25,373.25,0,0,1,12.342,373.046L8.416,249.358A249.5,249.5,0,0,0,49.317,244.577Z"
-      fill="#443983"
+      d="M352.493,-351.785A498,498,0,0,1,413.794,-277.09L276.324,-185.235A332.667,332.667,0,0,0,235.584,-234.877Z"
+      fill="#440154"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(83.33333333333337) translate(311.875,0) rotate(0)"
+      transform="rotate(-39.37499999999999) translate(415.83333333333337,0) rotate(0)"
       fill="white"
       dy="0.32em"
     >
-      mongo
+      yargs
     </text>
-    <title>database . mongo</title>
+    <title>typescript . yargs</title>
   </a>
   <a>
     <path
-      d="M11.343,373.078A373.25,373.25,0,0,1,-141.918,345.217L-94.712,230.824A249.5,249.5,0,0,0,7.416,249.39Z"
-      fill="#31688e"
+      d="M414.349,-276.258A498,498,0,0,1,488.333,-97.645L326.177,-65.39A332.667,332.667,0,0,0,276.88,-184.404Z"
+      fill="#482173"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(100.30303030303034) translate(311.875,0) rotate(180)"
+      transform="rotate(-22.499999999999986) translate(415.83333333333337,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      axum
+    </text>
+    <title>rust . axum</title>
+  </a>
+  <a>
+    <path
+      d="M488.528,-96.665A498,498,0,0,1,488.528,96.665L326.372,64.41A332.667,332.667,0,0,0,326.372,-64.41Z"
+      fill="#482173"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(1.4210854715202004e-14) translate(415.83333333333337,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      clap
+    </text>
+    <title>rust . clap</title>
+  </a>
+  <a>
+    <path
+      d="M488.333,97.645A498,498,0,0,1,460.283,190.114L307.535,126.844A332.667,332.667,0,0,0,326.177,65.39Z"
+      fill="#482173"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(16.87500000000003) translate(415.83333333333337,0) rotate(0)"
+      fill="white"
+      dy="0.32em"
+    >
+      actix
+    </text>
+    <title>rust . actix</title>
+  </a>
+  <a>
+    <path
+      d="M459.9,191.038A498,498,0,0,1,277.09,413.794L185.235,276.324A332.667,332.667,0,0,0,307.152,127.768Z"
+      fill="#433e85"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(39.37500000000003) translate(415.83333333333337,0) rotate(0)"
       fill="white"
       dy="0.32em"
     >
@@ -244,12 +290,12 @@
   </a>
   <a>
     <path
-      d="M-142.843,344.836A373.25,373.25,0,0,1,-211.243,307.721L-141.069,205.79A249.5,249.5,0,0,0,-95.637,230.443Z"
-      fill="#31688e"
+      d="M276.258,414.349A498,498,0,0,1,191.038,459.9L127.768,307.152A332.667,332.667,0,0,0,184.404,276.88Z"
+      fill="#433e85"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(118.4848484848485) translate(311.875,0) rotate(180)"
+      transform="rotate(61.875) translate(415.83333333333337,0) rotate(0)"
       fill="white"
       dy="0.32em"
     >
@@ -259,422 +305,302 @@
   </a>
   <a>
     <path
-      d="M-212.067,307.153A373.25,373.25,0,0,1,-260.057,267.743L-173.717,179.089A249.5,249.5,0,0,0,-141.893,205.223Z"
-      fill="#31688e"
+      d="M190.114,460.283A498,498,0,0,1,0.5,498L0.5,332.666A332.667,332.667,0,0,0,126.844,307.535Z"
+      fill="#38588c"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(129.3939393939394) translate(311.875,0) rotate(180)"
+      transform="rotate(78.75000000000006) translate(415.83333333333337,0) rotate(0)"
       fill="white"
       dy="0.32em"
     >
-      leptos
+      postgres
     </text>
-    <title>frontend . leptos</title>
+    <title>database . postgres</title>
   </a>
   <a>
     <path
-      d="M-260.773,267.045A373.25,373.25,0,0,1,-291.859,232.668L-194.99,155.657A249.5,249.5,0,0,0,-174.433,178.391Z"
-      fill="#31688e"
+      d="M-0.5,498A498,498,0,0,1,-96.665,488.528L-64.41,326.372A332.667,332.667,0,0,0,-0.5,332.666Z"
+      fill="#38588c"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(137.8787878787879) translate(311.875,0) rotate(180)"
+      transform="rotate(95.62500000000003) translate(415.83333333333337,0) rotate(180)"
       fill="white"
       dy="0.32em"
     >
-      astro
+      redis
     </text>
-    <title>frontend . astro</title>
+    <title>database . redis</title>
   </a>
   <a>
     <path
-      d="M-292.481,231.885A373.25,373.25,0,0,1,-361.654,92.313L-241.708,61.868A249.5,249.5,0,0,0,-195.613,154.874Z"
-      fill="#21918c"
+      d="M-97.645,488.333A498,498,0,0,1,-153.415,473.78L-102.324,316.539A332.667,332.667,0,0,0,-65.39,326.177Z"
+      fill="#38588c"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(153.63636363636363) translate(311.875,0) rotate(180)"
+      transform="rotate(104.62500000000003) translate(415.83333333333337,0) rotate(180)"
       fill="white"
       dy="0.32em"
     >
-      yargs
+      mongo
     </text>
-    <title>OSS . yargs</title>
+    <title>database . mongo</title>
   </a>
   <a>
     <path
-      d="M-361.9,91.344A373.25,373.25,0,0,1,-371.787,-33.016L-248.537,-21.905A249.5,249.5,0,0,0,-241.954,60.899Z"
-      fill="#21918c"
+      d="M-154.366,473.471A498,498,0,0,1,-242.897,434.747L-162.112,290.494A332.667,332.667,0,0,0,-103.275,316.23Z"
+      fill="#2d708e"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(175.4545454545455) translate(311.875,0) rotate(180)"
-      fill="white"
-      dy="0.32em"
-    >
-      string-ts
-    </text>
-    <title>OSS . string-ts</title>
-  </a>
-  <a>
-    <path
-      d="M-371.697,-34.012A373.25,373.25,0,0,1,-367.666,-64.322L-245.796,-42.833A249.5,249.5,0,0,0,-248.447,-22.9Z"
-      fill="#21918c"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(187.57575757575762) translate(311.875,0) rotate(180)"
-      fill="white"
-      dy="0.32em"
-    >
-      ruff
-    </text>
-    <title>OSS . ruff</title>
-  </a>
-  <a>
-    <path
-      d="M-367.492,-65.307A373.25,373.25,0,0,1,-257.934,-269.788L-172.536,-180.226A249.5,249.5,0,0,0,-245.622,-43.818Z"
-      fill="#35b779"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(208.1818181818182) translate(311.875,0) rotate(180)"
-      fill="white"
-      dy="0.32em"
-    >
-      pipelines
-    </text>
-    <title>data . pipelines</title>
-  </a>
-  <a>
-    <path
-      d="M-257.21,-270.479A373.25,373.25,0,0,1,-208.806,-309.379L-139.714,-206.713A249.5,249.5,0,0,0,-171.813,-180.916Z"
-      fill="#35b779"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(231.21212121212125) translate(311.875,0) rotate(180)"
-      fill="white"
-      dy="0.32em"
-    >
-      visualization
-    </text>
-    <title>data . visualization</title>
-  </a>
-  <a>
-    <path
-      d="M-207.976,-309.938A373.25,373.25,0,0,1,-139.187,-346.327L-93.194,-231.442A249.5,249.5,0,0,0,-138.885,-207.271Z"
-      fill="#90d743"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(242.12121212121212) translate(311.875,0) rotate(180)"
-      fill="white"
-      dy="0.32em"
-    >
-      yargs (node)
-    </text>
-    <title>cli . yargs (node)</title>
-  </a>
-  <a>
-    <path
-      d="M-138.259,-346.699A373.25,373.25,0,0,1,-94.225,-361.161L-63.145,-241.377A249.5,249.5,0,0,0,-92.265,-231.813Z"
-      fill="#90d743"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(251.81818181818187) translate(311.875,0) rotate(180)"
-      fill="white"
-      dy="0.32em"
-    >
-      typer (python)
-    </text>
-    <title>cli . typer (python)</title>
-  </a>
-  <a>
-    <path
-      d="M-93.257,-361.412A373.25,373.25,0,0,1,-47.747,-370.184L-32.081,-247.429A249.5,249.5,0,0,0,-62.177,-241.628Z"
-      fill="#90d743"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(259.0909090909091) translate(311.875,0) rotate(180)"
-      fill="white"
-      dy="0.32em"
-    >
-      cobra (go)
-    </text>
-    <title>cli . cobra (go)</title>
-  </a>
-  <a>
-    <path
-      d="M-46.755,-370.31A373.25,373.25,0,0,1,-0.5,-373.25L-0.5,-249.499A249.5,249.5,0,0,0,-31.089,-247.556Z"
-      fill="#90d743"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(266.3636363636364) translate(311.875,0) rotate(180)"
-      fill="white"
-      dy="0.32em"
-    >
-      clap (rust)
-    </text>
-    <title>cli . clap (rust)</title>
-  </a>
-  <a>
-    <path
-      d="M0.5,-498A498,498,0,0,1,83.389,-490.969L62.545,-368.987A374.25,374.25,0,0,0,0.5,-374.25Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-85.15151515151516) translate(436.625,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      chi
-    </text>
-    <title>backend . go . chi</title>
-  </a>
-  <a>
-    <path
-      d="M84.375,-490.8A498,498,0,0,1,164.895,-469.908L123.802,-353.18A374.25,374.25,0,0,0,63.53,-368.818Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-75.45454545454545) translate(436.625,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      fiber
-    </text>
-    <title>backend . go . fiber</title>
-  </a>
-  <a>
-    <path
-      d="M165.838,-469.576A498,498,0,0,1,213.586,-449.872L160.399,-338.135A374.25,374.25,0,0,0,124.745,-352.848Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-67.57575757575758) translate(436.625,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      gin
-    </text>
-    <title>backend . go . gin</title>
-  </a>
-  <a>
-    <path
-      d="M214.489,-449.442A498,498,0,0,1,303.289,-394.993L227.825,-296.916A374.25,374.25,0,0,0,161.302,-337.705Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-58.484848484848484) translate(436.625,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      express
-    </text>
-    <title>backend . node . express</title>
-  </a>
-  <a>
-    <path
-      d="M304.081,-394.384A498,498,0,0,1,379.468,-322.503L285.092,-242.457A374.25,374.25,0,0,0,228.617,-296.306Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-46.36363636363636) translate(436.625,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      koa
-    </text>
-    <title>backend . node . koa</title>
-  </a>
-  <a>
-    <path
-      d="M380.115,-321.74A498,498,0,0,1,438.727,-235.632L329.647,-177.188A374.25,374.25,0,0,0,285.739,-241.695Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-34.242424242424235) translate(436.625,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      axum
-    </text>
-    <title>backend . rust . axum</title>
-  </a>
-  <a>
-    <path
-      d="M439.2,-234.75A498,498,0,0,1,478.424,-138.254L359.504,-104.018A374.25,374.25,0,0,0,330.12,-176.307Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-22.121212121212096) translate(436.625,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      actix
-    </text>
-    <title>backend . rust . actix</title>
-  </a>
-  <a>
-    <path
-      d="M478.701,-137.293A498,498,0,0,1,494.876,-55.694L371.888,-41.978A374.25,374.25,0,0,0,359.781,-103.057Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-11.212121212121204) translate(436.625,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      fastapi
-    </text>
-    <title>backend . python . fastapi</title>
-  </a>
-  <a>
-    <path
-      d="M494.987,-54.7A498,498,0,0,1,497.99,-3.134L374.242,-2.479A374.25,374.25,0,0,0,371.999,-40.984Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(-3.3333333333333144) translate(436.625,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      sanic
-    </text>
-    <title>backend . python . sanic</title>
-  </a>
-  <a>
-    <path
-      d="M497.995,-2.134A498,498,0,0,1,495.538,49.462L372.412,37.047A374.25,374.25,0,0,0,374.247,-1.479Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(2.727272727272748) translate(436.625,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      quart
-    </text>
-    <title>backend . python . quart</title>
-  </a>
-  <a>
-    <path
-      d="M495.437,50.457A498,498,0,0,1,474.104,152.412L356.33,114.42A374.25,374.25,0,0,0,372.312,38.042Z"
-      fill="#440154"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(11.818181818181827) translate(436.625,0) rotate(0)"
-      fill="white"
-      dy="0.32em"
-    >
-      wisp
-    </text>
-    <title>backend . gleam . wisp</title>
-  </a>
-  <a>
-    <path
-      d="M-490.347,-86.969A498,498,0,0,1,-461.53,-187.067L-346.889,-140.467A374.25,374.25,0,0,0,-368.477,-65.48Z"
-      fill="#35b779"
-      fill-opacity="0.9"
-    ></path>
-    <text
-      transform="rotate(196.06060606060612) translate(436.625,0) rotate(180)"
+      transform="rotate(113.62500000000003) translate(415.83333333333337,0) rotate(180)"
       fill="white"
       dy="0.32em"
     >
       polars
     </text>
-    <title>data . pipelines . polars</title>
+    <title>data-pipelines . polars</title>
   </a>
   <a>
     <path
-      d="M-461.153,-187.994A498,498,0,0,1,-411.96,-279.809L-309.66,-210.175A374.25,374.25,0,0,0,-346.513,-141.393Z"
-      fill="#35b779"
+      d="M-243.77,434.258A498,498,0,0,1,-323.045,379.007L-215.669,253.286A332.667,332.667,0,0,0,-162.984,290.006Z"
+      fill="#2d708e"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(208.1818181818182) translate(436.625,0) rotate(180)"
+      transform="rotate(124.87499999999997) translate(415.83333333333337,0) rotate(180)"
       fill="white"
       dy="0.32em"
     >
       pandas
     </text>
-    <title>data . pipelines . pandas</title>
+    <title>data-pipelines . pandas</title>
   </a>
   <a>
     <path
-      d="M-411.397,-280.636A498,498,0,0,1,-373.224,-329.709L-280.562,-247.685A374.25,374.25,0,0,0,-309.097,-211.002Z"
-      fill="#35b779"
+      d="M-323.805,378.357A498,498,0,0,1,-365.353,338.41L-243.945,226.181A332.667,332.667,0,0,0,-216.43,252.637Z"
+      fill="#2d708e"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(217.87878787878793) translate(436.625,0) rotate(180)"
+      transform="rotate(133.875) translate(415.83333333333337,0) rotate(180)"
       fill="white"
       dy="0.32em"
     >
       airflow
     </text>
-    <title>data . pipelines . airflow</title>
+    <title>data-pipelines . airflow</title>
   </a>
   <a>
     <path
-      d="M-372.561,-330.458A498,498,0,0,1,-344.021,-360.074L-258.624,-270.512A374.25,374.25,0,0,0,-279.899,-248.434Z"
-      fill="#35b779"
+      d="M-366.032,337.675A498,498,0,0,1,-402.596,293.121L-268.839,195.941A332.667,332.667,0,0,0,-244.624,225.447Z"
+      fill="#2d708e"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(223.93939393939394) translate(436.625,0) rotate(180)"
+      transform="rotate(140.62499999999997) translate(415.83333333333337,0) rotate(180)"
       fill="white"
       dy="0.32em"
     >
       spark
     </text>
-    <title>data . pipelines . spark</title>
+    <title>data-pipelines . spark</title>
   </a>
   <a>
     <path
-      d="M-343.297,-360.764A498,498,0,0,1,-312.356,-387.863L-234.834,-291.403A374.25,374.25,0,0,0,-257.9,-271.202Z"
-      fill="#35b779"
+      d="M-403.184,292.312A498,498,0,0,1,-484.123,116.742L-323.358,78.146A332.667,332.667,0,0,0,-269.427,195.132Z"
+      fill="#25858e"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(228.78787878787887) translate(436.625,0) rotate(180)"
+      transform="rotate(155.24999999999994) translate(415.83333333333337,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      fastapi
+    </text>
+    <title>python . fastapi</title>
+  </a>
+  <a>
+    <path
+      d="M-484.357,115.77A498,498,0,0,1,-497.596,20.051L-332.39,13.56A332.667,332.667,0,0,0,-323.591,77.173Z"
+      fill="#25858e"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(172.125) translate(415.83333333333337,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      typer
+    </text>
+    <title>python . typer</title>
+  </a>
+  <a>
+    <path
+      d="M-497.635,19.052A498,498,0,0,1,-496.504,-38.574L-331.68,-25.602A332.667,332.667,0,0,0,-332.429,12.561Z"
+      fill="#1e9b8a"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(181.12499999999994) translate(415.83333333333337,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      numpy
+    </text>
+    <title>math . numpy</title>
+  </a>
+  <a>
+    <path
+      d="M-496.425,-39.571A498,498,0,0,1,-488.528,-96.665L-326.372,-64.41A332.667,332.667,0,0,0,-331.602,-26.599Z"
+      fill="#1e9b8a"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(187.875) translate(415.83333333333337,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      scipy
+    </text>
+    <title>math . scipy</title>
+  </a>
+  <a>
+    <path
+      d="M-488.333,-97.645A498,498,0,0,1,-473.78,-153.415L-316.539,-102.324A332.667,332.667,0,0,0,-326.177,-65.39Z"
+      fill="#1e9b8a"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(194.62499999999994) translate(415.83333333333337,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      cvxpy
+    </text>
+    <title>math . cvxpy</title>
+  </a>
+  <a>
+    <path
+      d="M-473.471,-154.366A498,498,0,0,1,-452.464,-208.038L-302.318,-138.82A332.667,332.667,0,0,0,-316.23,-103.275Z"
+      fill="#1e9b8a"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(201.37499999999994) translate(415.83333333333337,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      ndarray
+    </text>
+    <title>math . ndarray</title>
+  </a>
+  <a>
+    <path
+      d="M-452.046,-208.947A498,498,0,0,1,-403.184,-292.312L-269.427,-195.132A332.667,332.667,0,0,0,-301.899,-139.728Z"
+      fill="#2ab07f"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(210.37500000000006) translate(415.83333333333337,0) rotate(180)"
       fill="white"
       dy="0.32em"
     >
       d3
     </text>
-    <title>data . visualization . d3</title>
+    <title>visualization . d3</title>
   </a>
   <a>
     <path
-      d="M-311.577,-388.489A498,498,0,0,1,-278.456,-412.876L-209.364,-310.209A374.25,374.25,0,0,0,-234.055,-292.03Z"
-      fill="#35b779"
+      d="M-402.596,-293.121A498,498,0,0,1,-338.41,-365.353L-226.181,-243.945A332.667,332.667,0,0,0,-268.839,-195.941Z"
+      fill="#2ab07f"
       fill-opacity="0.9"
     ></path>
     <text
-      transform="rotate(233.63636363636368) translate(436.625,0) rotate(180)"
+      transform="rotate(221.625) translate(415.83333333333337,0) rotate(180)"
       fill="white"
       dy="0.32em"
     >
       matplotlib
     </text>
-    <title>data . visualization . matplotlib</title>
+    <title>visualization . matplotlib</title>
+  </a>
+  <a>
+    <path
+      d="M-337.675,-366.032A498,498,0,0,1,-293.121,-402.596L-195.941,-268.839A332.667,332.667,0,0,0,-225.447,-244.624Z"
+      fill="#52c569"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(230.62500000000006) translate(415.83333333333337,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      gin
+    </text>
+    <title>go . gin</title>
+  </a>
+  <a>
+    <path
+      d="M-292.312,-403.184A498,498,0,0,1,-243.77,-434.258L-162.984,-290.006A332.667,332.667,0,0,0,-195.132,-269.427Z"
+      fill="#52c569"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(237.375) translate(415.83333333333337,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      fiber
+    </text>
+    <title>go . fiber</title>
+  </a>
+  <a>
+    <path
+      d="M-242.897,-434.747A498,498,0,0,1,-191.038,-459.9L-127.768,-307.152A332.667,332.667,0,0,0,-162.112,-290.494Z"
+      fill="#52c569"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(244.12500000000006) translate(415.83333333333337,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      cobra
+    </text>
+    <title>go . cobra</title>
+  </a>
+  <a>
+    <path
+      d="M-190.114,-460.283A498,498,0,0,1,-97.645,-488.333L-65.39,-326.177A332.667,332.667,0,0,0,-126.844,-307.535Z"
+      fill="#86d549"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(253.12500000000006) translate(415.83333333333337,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      zio
+    </text>
+    <title>scala . zio</title>
+  </a>
+  <a>
+    <path
+      d="M-96.665,-488.528A498,498,0,0,1,-0.5,-498L-0.5,-332.666A332.667,332.667,0,0,0,-64.41,-326.372Z"
+      fill="#c2df23"
+      fill-opacity="0.9"
+    ></path>
+    <text
+      transform="rotate(264.375) translate(415.83333333333337,0) rotate(180)"
+      fill="white"
+      dy="0.32em"
+    >
+      wisp
+    </text>
+    <title>gleam . wisp</title>
   </a>
 </svg>
